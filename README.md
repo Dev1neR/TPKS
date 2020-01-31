@@ -1,2 +1,2 @@
 # TPKS
-#Lab1 - lib + files
+Lab1 = lib + files
